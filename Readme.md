@@ -10,7 +10,7 @@ We're trying to create multi-purpose modules, with a consistent controller parad
 
 This repository contains development versions of custom modules, which were developed by techno label from Berlin, *Weddinger Schule*.
 
-You can find additional documentation and release versions of some of them on the [label website](https://chat.openai.com/c/insert-label-website-link-here).
+You can find additional documentation and release versions of some of them on the [label website](https://label.weddinger-schule.de/category/tools/).
 
 **Content**
 
